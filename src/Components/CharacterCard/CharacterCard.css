@@ -1,0 +1,16 @@
+.card-text {
+  font-size: 14px;
+  letter-spacing: 0.6px;
+}
+
+.character-card-basic-details-heading {
+  font-size: 15px;
+  letter-spacing: 0.2px;
+}
+.character-card-basic-details-value {
+  font-size: 15px;
+  font-weight: 500;
+  color: gray;
+  text-transform: capitalize;
+  letter-spacing: 0.2px;
+}
