@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/shivani-projects/static/css/main.68ca8d85.chunk.css",
+    "main.js": "/github.io/shivani-projects/static/js/main.8bafb6fd.chunk.js",
+    "main.js.map": "/github.io/shivani-projects/static/js/main.8bafb6fd.chunk.js.map",
+    "runtime-main.js": "/github.io/shivani-projects/static/js/runtime-main.faa01279.js",
+    "runtime-main.js.map": "/github.io/shivani-projects/static/js/runtime-main.faa01279.js.map",
+    "static/js/2.a31e090d.chunk.js": "/github.io/shivani-projects/static/js/2.a31e090d.chunk.js",
+    "static/js/2.a31e090d.chunk.js.map": "/github.io/shivani-projects/static/js/2.a31e090d.chunk.js.map",
+    "static/js/3.187e313b.chunk.js": "/github.io/shivani-projects/static/js/3.187e313b.chunk.js",
+    "static/js/3.187e313b.chunk.js.map": "/github.io/shivani-projects/static/js/3.187e313b.chunk.js.map",
+    "index.html": "/github.io/shivani-projects/index.html",
+    "static/css/main.68ca8d85.chunk.css.map": "/github.io/shivani-projects/static/css/main.68ca8d85.chunk.css.map",
+    "static/js/2.a31e090d.chunk.js.LICENSE.txt": "/github.io/shivani-projects/static/js/2.a31e090d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa01279.js",
+    "static/js/2.a31e090d.chunk.js",
+    "static/css/main.68ca8d85.chunk.css",
+    "static/js/main.8bafb6fd.chunk.js"
+  ]
+}
